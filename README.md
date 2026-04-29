@@ -31,4 +31,4 @@ German (B2) · Spanish (C1) · French (B1)
 
 ---
 
-[Personal Website](https://rodeza.github.io/personal_website/) · [LinkedIn](https://linkedin.com/in/anthonyrodez) · [Download Resume](https://raw.githubusercontent.com/RodezA/resume/main/Rodez-Resume.pdf)
+[Personal Website](https://rodeza.github.io/personal_website/) · [LinkedIn](https://linkedin.com/in/anthonyrodez) · [Download Resume](https://rodeza.github.io/resume/Rodez-Resume.pdf)
