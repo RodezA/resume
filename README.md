@@ -33,4 +33,12 @@ German (B2) · Spanish (C1) · French (B1)
 
 ---
 
+## Projects
+
+- [Financial RAG Pipeline](https://github.com/RodezA/financial-rag-pipeline) — Production-grade RAG pipeline over synthetic financial documents with cross-encoder reranking and LLM-as-judge evaluation. Python · Groq (Llama 3.3 70B) · Qdrant · LangChain · Streamlit
+- [NYC Taxi Demand Forecast](https://github.com/RodezA/forecasting-demo) — Multi-agent forecasting app with probabilistic demand forecasting via Prophet and Groq-powered executive summaries. Python · Prophet · Groq · Plotly · Streamlit
+- [LLM Fine-Tuning & Evaluation](https://github.com/RodezA/llm-fine-tuning) — Fine-tuned Gemma 2 2B for NL→Vega-Lite chart spec translation with a decoupled benchmarking harness. Python · Gemma 2 · Hugging Face (PEFT · TRL) · Streamlit
+
+---
+
 [Personal Website](https://rodeza.github.io/personal_website/) · [LinkedIn](https://linkedin.com/in/anthonyrodez) · [Download Resume](https://rodeza.github.io/resume/Rodez-Resume.pdf)
